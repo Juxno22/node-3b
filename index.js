@@ -70,3 +70,5 @@ app.listen(port, () => {
 //instalar postman API platform
 //instalar mysql2
 //Instalar CORS
+
+
